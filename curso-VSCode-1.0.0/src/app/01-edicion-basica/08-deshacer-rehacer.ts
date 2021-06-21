@@ -5,7 +5,7 @@
     Tips:
         ⌘ Z
         ⌘ ⇧ Z
-        Ctrl +Z
+        Ctrl + Z
         Ctrl + Shift + Z
 
 */
