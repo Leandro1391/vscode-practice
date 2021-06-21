@@ -11,8 +11,7 @@
 
 // Crear un arreglo con los días de la semana
 
-
-
+const dias = ['lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado', 'domingo'];
 
 
 
