@@ -16,25 +16,29 @@
         Mostrar la paleta de comandos
         ⇧ ⌘ P, F1
         Ctrl + Shift + P, F1
+
+    Linux
+        Ctrl + Alt + P (Uppercase)
+        Ctrl + Alt + O (Lowercase)
 */
 
 function capitalizados() {
-
-    const hulk       = 'brouce banner';
-    const Hawkeye    = 'cinton francis';
-    const ironman    = 'tony stark';
-    const spiderman  = 'peter parker';
-    const viudaNegra = 'natalia romanova';
-
-}
-
-function minusculas() {
 
     const HULK       = 'brouce banner';
     const HAWKEYE    = 'cinton francis';
     const IRONMAN    = 'tony stark';
     const SPIDERMAN  = 'peter parker';
     const VIUDANEGRA = 'natalia romanova';
+
+}
+
+function minusculas() {
+
+    const hulk       = 'brouce banner';
+    const hawkeye    = 'cinton francis';
+    const ironman    = 'tony stark';
+    const spiderman  = 'peter parker';
+    const viudanegra = 'natalia romanova';
 
 }
 
