@@ -1,5 +1,10 @@
 
+export class SuperHeroe {
 
+   constructor() {
+    //    Hello Heroe
+   }
+}
 
 
 
